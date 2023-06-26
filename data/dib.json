@@ -1,0 +1,78 @@
+{
+  "blogs": [
+    {
+      "title": "What is a Reverse Proxy Server ",
+      "body": " A reverse proxy sits between a user’s device and one or more backend servers. Unlike a standard (or forward) proxy server, which is typically used to access online resources by a user, a reverse proxy server manages inbound traffic and protects backend servers from direct access.Reverse proxy servers are useful for load balancing, SSL/TLS termination, content caching, and more. They can also provide an additional layer of security by hiding the IP addresses of backend servers and protecting them from common web attacks, such as Distributed Denial of Service (DDoS).",
+      "author": "zaki",
+      "id": 2
+    },
+    {
+      "title": "How to Find Your Proxy Server Address",
+      "body": "With a proxy server, your IP address is concealed and a proxy server address is used in its place. You can find your proxy server address in the control panel of your device .On Windows, simply navigate to your Network Settings and select Proxy Settings. For Mac devices, open System Preferences > Network > Connection > Advanced. Open the Proxies tab and you’ll find your proxy server address in the Web Proxy Server field.",
+      "author": "zaki",
+      "id": 3
+    },
+    {
+      "title": "What is BYOD?",
+      "body": "BYOD stands for Bring Your Own Device, and refers to a business policy that allows employees to use their own devices in the course of their work. BYOD applies to laptops, tablets, phones, and any other personal devices that an employee uses to perform their role or access company resources.\n\nWhether employees exclusively use their own devices, or occasionally work from a personal phone or laptop alongside a company-issued device, business leaders should employ effective BYOD management to harness the benefits of BYOD while mitigating risks.",
+      "author": "mohammed",
+      "id": 4
+    },
+    {
+      "title": "What is an IT Strategy?",
+      "body": "An IT strategy is a detailed plan that outlines how technology is used to support and achieve business goals. This includes how the organization manages and maintains its IT systems, infrastructure, and applications. An IT strategy takes the wider business strategy into account, and sets out the ways in which technology will align with future needs and priorities.",
+      "author": "safi",
+      "id": 5
+    },
+    {
+      "title": "The Hidden Cost of Old Technology",
+      "body": "According to the study, antiquated software and technology issues are leading causes of business downtime and employee frustration:\\\\n\\\\nWorkers spend an average of almost 3 hours a week dealing with tech issues.\\\\nRemote workers (73%) waste more time due to tech issues than on-site (22%) and hybrid workers (41%).\\\\n55% of workers say their company’s tech is antiquated.\\\\nThe most commonly reported workplace tech problem is a frozen computer, with data loss and connectivity issues also topping the list.",
+      "author": "mario",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 24132,
+      "blogNumber": 2,
+      "author": "user",
+      "content": "it is good blog ,i like it so much"
+    },
+    {
+      "id": 34132,
+      "blogNumber": 3,
+      "author": "moi",
+      "content": "bad blog ,try the better bro we are here "
+    },
+    {
+      "id": 414,
+      "blogNumber": 4,
+      "author": "moh",
+      "content": "absolutely awesome "
+    },
+    {
+      "id": 414135,
+      "blogNumber": 5,
+      "author": "tahar",
+      "content": " bad , but it's okay "
+    },
+    {
+      "id": 43216,
+      "blogNumber": 6,
+      "author": "safi",
+      "content": "what the hell is this "
+    },
+    {
+      "id": 43212,
+      "blogNumber": 2,
+      "author": "zakarya",
+      "content": "this is new comment write it by me"
+    },
+    {
+      "id": 1687703475964,
+      "blogNumber": "7",
+      "author": "fasd",
+      "content": "fasd"
+    }
+  ]
+}
